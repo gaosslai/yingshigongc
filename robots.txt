@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gaosslai.github.io/yingshigongc/sitemap.xml
